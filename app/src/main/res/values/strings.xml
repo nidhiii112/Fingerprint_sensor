@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FingerPrint_Sensor</string>
+
+    <string name="result_display">Result Display ...</string>
+    <string name="scan">Scan</string>
+    <string name="todo">TODO</string>
+</resources>
