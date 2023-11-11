@@ -5,7 +5,7 @@ this app contain two Buttons i.e. Scan button and Result display button . When t
 otherwise "ERROR".
  
 
-# Interface of the Application 
+# Interface of the Application  
  
   
 ![image1](https://user-images.githubusercontent.com/117963273/233859533-41a61b1c-bce2-4c37-85f3-cab4d352e208.jpg)
